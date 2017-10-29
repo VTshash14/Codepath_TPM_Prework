@@ -33,7 +33,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I did not face any major challenges. Except for the last bonus challenge (Challenge 7), I was able to do all of them.
 
 ## License
 
