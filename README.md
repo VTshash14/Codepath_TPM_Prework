@@ -33,7 +33,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-I did not face any major challenges. Except for the last bonus challenge (Challenge 7), I was able to do all of them.
+Except for the last bonus challenge (Challenge 7/ Bonus 2), I was able to do all of the challenges.
 
 ## License
 
